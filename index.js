@@ -1,0 +1,1 @@
+document.getElementsByTagNameNS("h3")[0].style.fontSize = "6vw"
